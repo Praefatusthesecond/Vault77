@@ -1,0 +1,8 @@
+﻿# Obsidian vault
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/**/data.json
+
+# OS noise
+.DS_Store
+Thumbs.db
