@@ -4,7 +4,7 @@ domain: obsidian
 subcategory: meta
 aliases: [plugins]
 ---
-↑ [[Obsidian Index]]
+Back to  [[Obsidian Index]]
 
 > _Plugins are part of the system, not decorations._
 

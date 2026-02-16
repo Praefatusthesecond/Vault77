@@ -6,7 +6,7 @@ parent: Azure
 aliases: [Azure VNet Architecture]
 ---
 
-↑ [[Azure]]
+Back to  [[Azure]]
 
 # Azure Networking Architecture Patterns
 

@@ -5,7 +5,7 @@ domain: DevOps
 subcategory: Terraform
 parent: Terraform
 ---
-↑[[Terraform]]
+Back to [[Terraform]]
 Resources define infrastructure objects Terraform manages.
 
 ## Example

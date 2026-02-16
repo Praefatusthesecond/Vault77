@@ -2,7 +2,7 @@
 tags: [azure- devops, pipelines, yaml, cicd, best- practices]
 parent: Azure DevOps
 ---
-↑ [[Azure DevOps]]]
+Back to  [[Azure DevOps]]]
 
 # Azure DevOps - Pipelines (YAML) Best Practices
 

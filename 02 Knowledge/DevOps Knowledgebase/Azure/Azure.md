@@ -6,7 +6,7 @@ parent: DevOps Knowledgebase
 aliases: [Microsoft Azure Knowledgebase]
 ---
 
-↑ [[DevOps Knowledgebase]]
+Back to  [[DevOps Knowledgebase]]
 
 # Azure
 

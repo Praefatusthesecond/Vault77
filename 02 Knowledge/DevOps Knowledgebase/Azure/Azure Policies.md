@@ -6,7 +6,7 @@ parent: Azure
 aliases: [Azure Policy, Azure Governance]
 ---
 
-↑ [[Azure]]
+Back to  [[Azure]]
 
 # Azure Policies
 

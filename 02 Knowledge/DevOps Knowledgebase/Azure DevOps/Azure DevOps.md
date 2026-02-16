@@ -1,9 +1,9 @@
 ---
-tags: [devops, azure- devops, cicd, git, pipelines]
+tags: [devops, azure-devops, cicd, git, pipelines]
 aliases: [ADO, Azure DevOps Services]
 parent: DevOps Knowledgebase
 ---
-↑ [[DevOps Knowledgebase]]
+Back to  [[DevOps Knowledgebase]]
 
 # Azure DevOps
 

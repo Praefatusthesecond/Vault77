@@ -6,7 +6,7 @@ parent: Terraform Knowledgebase
 aliases: [Terraform AWS Provider Configuration]
 ---
 
-↑ [[Terraform]]
+Back to  [[Terraform]]
 
 # Terraform AWS Provider
 

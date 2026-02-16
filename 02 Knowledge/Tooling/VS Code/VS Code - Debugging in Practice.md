@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, debugging, powershell, scripting ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Debugging in Practice
 
 Debugging is not about fixing bugs faster.

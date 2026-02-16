@@ -5,7 +5,7 @@ subcategory: AWS
 parent: AWS
 ---
 
-↑ [[AWS]]
+Back to  [[AWS]]
 
 # AWS Shared Responsibility Model
 

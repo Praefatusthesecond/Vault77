@@ -6,7 +6,7 @@ parent: Azure
 aliases: [Azure AD, Entra ID]
 ---
 
-↑ [[Azure]]
+Back to  [[Azure]]
 
 # Azure Identity (Entra ID)
 

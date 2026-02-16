@@ -6,7 +6,7 @@ parent: AWS
 aliases: [AWS Network Architecture]
 ---
 
-↑ [[AWS]]
+Back to  [[AWS]]
 
 # AWS VPC Architecture Patterns
 

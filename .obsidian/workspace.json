@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65314bda8ddaa859",
+        "id": "e971eacdaccf7ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "91de8d4caedca58a",
+            "id": "cea0359ad9ec8c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kubernetes backup",
+                "query": "tag:azure- devops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,13 +171,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "128a7290ca25db79",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 568.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,47 +202,48 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "91de8d4caedca58a",
+  "active": "cea0359ad9ec8c00",
   "lastOpenFiles": [
-    "02 Knowledge/DevOps Knowledgebase/Terraform/Terraform IAM Modules.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes (Root).md",
-    "02 Knowledge/DevOps Knowledgebase/Azure/Azure CI-CD Authentication.md",
-    "02 Knowledge/DevOps Knowledgebase/Terraform/Terraform AWS Provider.md",
-    "02 Knowledge/DevOps Knowledgebase/AWS/AWS IAM + Terraform.md",
-    "02 Knowledge/DevOps Knowledgebase/AWS/AWS Compute Decision Tree.md",
-    "02 Knowledge/DevOps Knowledgebase/Azure/Azure.md",
+    "02 Knowledge/ISO/ISMS/Controls/Acceptable Use Controls.md",
+    "scripts/patch_copilot_settings.py",
+    "bootstrap/doctor.sh",
+    "bootstrap/update.sh",
+    "bootstrap/setup.sh",
+    "bootstrap/doctor.ps1",
+    "bootstrap/update.ps1",
+    "bootstrap/setup.ps1",
+    "ollama/Modelfile.qwen2.5-3b-copilot-ctx1k",
+    "scripts",
+    "ollama",
+    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260216_094024.md",
+    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260212_155416.md",
+    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260212_155039.md",
+    "copilot/copilot-conversations/What_key_questions_does_activeNote_answer@20260212_154249.md",
+    "copilot/copilot-conversations/How_does_git_work@20260212_123946.md",
+    "02 Knowledge/Security Engineering/Incident Management.md",
     "02 Knowledge/DevOps Knowledgebase/DevOps Knowledgebase.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes Mental Model.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Troubleshooting Playbook.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Storage.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Security & RBAC.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Scheduling & Placement.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Scaling & Autoscaling.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Observability.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Networking.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Kustomize.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - kubectl Cheat Sheet.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Helm.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - GitOps.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Deployments & Rollouts.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Core Objects.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Control Plane & Controllers.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Backup & Disaster Recovery.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Architecture & Components.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes/Kubernetes - Admission Control & Policies.md",
-    "02 Knowledge/DevOps Knowledgebase/Kubernetes",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "02 Knowledge/Tooling/VS Code",
-    "02 Knowledge/DevOps Knowledgebase/Azure DevOps",
-    "01 Inbox",
-    "02 Knowledge/I-Theses/ISO Canvas.canvas",
-    "02 Knowledge/Tooling/Git",
-    "02 Knowledge/Tooling",
-    "Daily Notes"
+    "copilot/copilot-conversations/What's_the_longest_river_in_the_world@20260212_103751.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "02 Knowledge/Tooling/Zabbix/Zabbix - Templates.md",
+    "02 Knowledge/Tooling/Zabbix/Zabbix - Security.md",
+    "02 Knowledge/I-Theses/ISO Canvas.canvas"
   ]
 }

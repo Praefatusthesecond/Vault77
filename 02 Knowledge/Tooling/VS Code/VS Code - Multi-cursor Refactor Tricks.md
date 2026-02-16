@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, productivity, refactoring ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Multi- cursor Refactor Tricks
 
 Multi- cursor editing is one of VS Code’s most powerful features.
@@ -40,7 +42,7 @@ If you have to *hope*, stop.
 | Select all occurrences | `Ctrl + Shift + L` |
 | Skip current occurrence | `Ctrl + K Ctrl + D` |
 | Column select (mouse) | `Shift + Alt + Drag` |
-| Column select (keyboard) | `Shift + Alt + ↑ / ↓` |
+| Column select (keyboard) | `Shift + Alt + Back to  / ↓` |
 | Undo last cursor | `Ctrl + U` |
 
 ---

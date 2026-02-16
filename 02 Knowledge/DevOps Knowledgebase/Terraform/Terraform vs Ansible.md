@@ -5,7 +5,7 @@ domain: DevOps
 subcategory: Terraform
 parent: Terraform
 ---
-↑[[Terraform]]
+Back to [[Terraform]]
 
 Terraform and Ansible solve different problems.
 

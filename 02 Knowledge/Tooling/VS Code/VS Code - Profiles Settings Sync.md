@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, profiles, settings ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Profiles & Settings Sync
 
 Profiles prevent extension and setting chaos.

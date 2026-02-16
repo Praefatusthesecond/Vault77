@@ -2,7 +2,7 @@
 tags: [azure- devops, checklist, decision- tree, cicd]
 parent: Azure DevOps
 ---
-↑ [[Azure DevOps]]]
+Back to  [[Azure DevOps]]]
 
 # Azure DevOps - Decision Trees & Checklists
 

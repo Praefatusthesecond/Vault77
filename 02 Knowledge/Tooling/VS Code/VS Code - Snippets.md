@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, snippets, productivity ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Snippets
 
 Snippets eliminate repetitive typing.

@@ -6,7 +6,7 @@ parent: Azure
 aliases: [Azure Identity with Terraform]
 ---
 
-↑ [[Azure]]
+Back to  [[Azure]]
 
 # Azure IAM + Terraform
 

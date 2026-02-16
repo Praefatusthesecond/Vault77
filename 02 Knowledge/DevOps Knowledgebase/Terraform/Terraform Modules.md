@@ -5,7 +5,7 @@ domain: DevOps
 subcategory: Terraform
 parent: Terraform
 ---
-↑[[Terraform]]
+Back to [[Terraform]]
 Modules are reusable Terraform configurations.
 
 ## Why Use Modules

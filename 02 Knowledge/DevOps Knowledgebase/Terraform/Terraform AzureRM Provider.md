@@ -6,7 +6,7 @@ parent: Terraform Knowledgebase
 aliases: [Terraform Azure Provider, AzureRM Provider]
 ---
 
-↑ [[Terraform]]
+Back to  [[Terraform]]
 
 # Terraform AzureRM Provider
 

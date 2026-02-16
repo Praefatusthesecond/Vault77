@@ -4,7 +4,7 @@ domain: obsidian
 subcategory: meta
 aliases: [Vault System]
 ---
-↑ [[Obsidian Index]]
+Back to  [[Obsidian Index]]
 
 > _The operating system of this vault._
 

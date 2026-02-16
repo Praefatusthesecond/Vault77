@@ -1,68 +1,324 @@
-# Obsidian Vault (GitHub Sync) — Setup & Usage Guide
+# Obsidian DevOps Vault — AI-Enabled (GitHub Sync)
 
-This repo contains an **Obsidian vault** that is shared via **GitHub**.  
-Goal: you can clone it on any machine and be up and running with the same notes + structure, with safe syncing via Git.
+This repository contains a structured **Obsidian knowledge vault** with:
+
+- Structured PARA-style folders
+    
+- Dataview-based indexes
+    
+- AI integration via **Obsidian Copilot**
+    
+- Local LLM powered by **Ollama**
+    
+- Git-based sync & version control
+    
+
+The goal is simple:
+
+> Clone → Run one command → Open in Obsidian → AI works.
 
 ---
 
-## What’s in this repo
+# 📦 What’s Included
 
-- `*.md` notes (your content)
--  `.obsidian/` settings (workspace, hotkeys, plugins, etc.)
-- A `.gitignore` to avoid syncing junk (caches, local-only stuff)
+- `*.md` notes (knowledge base content)
+    
+- `.obsidian/` (workspace + plugin configuration)
+    
+- Copilot configuration (Ollama-based)
+    
+- A custom Ollama model definition:
+    
+    - `qwen2.5-3b-copilot-ctx1k`
+        
+- Bootstrap scripts for:
+    
+    - Setup
+        
+    - Updates
+        
+    - Troubleshooting
+        
+- `.gitignore` configured to avoid syncing junk
+    
+
 ---
 
-## Prerequisites
+# 🔧 Prerequisites
 
-### Install Obsidian
-- Download and install Obsidian: https://obsidian.md/
+## 1️⃣ Install Obsidian
 
-### Install Git
-- **Windows:** install Git for Windows (includes Git Bash)
-- **macOS:** install via Xcode command line tools or Homebrew
-- **Linux:** install via your distro package manager
+Download:  
+[https://obsidian.md/](https://obsidian.md/)
 
-Confirm it works:
+---
+
+## 2️⃣ Install Git
+
+**Windows**
+
+- Install Git for Windows (includes Git Bash)
+    
+
+**macOS**
+
+```bash
+xcode-select --install
+```
+**Linux**
+
+```bash
+sudo apt install git
+```
+Verify:
+
 ```bash
 git --version
 ```
+---
 
-## Quick Start (Clone + Open Vault)
+## 3️⃣ Install Ollama
 
-### 1) Clone the repo
+Download:  
+[https://ollama.com/](https://ollama.com/)
 
-Choose a folder where you keep vaults.
+After installation, confirm:
 
-#### Windows (PowerShell)
+```powershell
+ollama --version`
+```
+On Linux you may need to start the server:
 
-`cd $HOME\Documents git clone https://github.com/<YOUR-USER>/<YOUR-REPO>.git`
+```bash
+ollama serve
+```
+---
 
-#### macOS/Linux
+# 🚀 Quick Start (Fully Automated Setup)
 
-`cd ~/Documents git clone https://github.com/<YOUR-USER>/<YOUR-REPO>.git`
+## 1️⃣ Clone the repository
 
-### 2) Open the vault in Obsidian
+### Windows (PowerShell)
 
-1. Open **Obsidian**
+```powershell
+cd $HOME\Documents git clone https://github.com/<YOUR-USER>/<YOUR-REPO>.git cd <YOUR-REPO>`
+```
+### macOS / Linux
+```bash
+cd ~/Documents git clone https://github.com/<YOUR-USER>/<YOUR-REPO>.git cd <YOUR-REPO>`
+```
+---
+
+## 2️⃣ Run Setup Script
+
+### Windows
+
+```powershell
+-ExecutionPolicy Bypass -File .\bootstrap\setup.ps1
+```
+### macOS / Linux
+
+```bash
+./bootstrap/setup.sh
+```
+The setup script will:
+
+- Verify Ollama is installed
     
-2. Choose **Open folder as vault**
+- Ensure Ollama API is reachable
     
-3. Select the cloned repo folder
+- Build the custom model:
+    
+    `qwen2.5-3b-copilot-ctx1k`
+    
+- Patch Copilot plugin settings (best effort)
+    
+- Verify the model responds
     
 
-That’s it — notes should appear immediately.
+---
 
-## Usage guidelines
+## 3️⃣ Open Vault in Obsidian
 
-**Please make a new branch to use for yourself.**
+1. Open Obsidian
+    
+2. Click **Open folder as vault**
+    
+3. Select this repository folder
+    
 
-I will maintain the default `main` to add items that serve to build up generic IT knowledge.
+Done.
 
-If you want to contribute in that way, make a PR to sync it with main, I'll check it and merge if it checks out :) 
+---
 
-## License
+# 🤖 AI Configuration Details
 
-This knowledgebase is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This vault uses:
 
-You are free to share and adapt the material, provided appropriate credit is given.
+- **Provider:** Ollama
+    
+- **Model:** `qwen2.5-3b-copilot-ctx1k:latest`
+    
+- **Context:** 1k tokens
+    
+- **Temperature:** 0.1 (focused / deterministic responses)
+    
 
+If Copilot is not auto-configured:
+
+Open:
+
+`Settings → Copilot`
+
+Set:
+
+- Provider → **Ollama**
+    
+- Host → `http://127.0.0.1:11434`
+    
+- Model → `qwen2.5-3b-copilot-ctx1k:latest`
+    
+
+---
+
+# 🔄 Updating the Vault
+
+To get updates:
+
+```
+git pull
+```
+Then re-run setup to verify AI:
+
+### Windows
+
+```powershell
+.\bootstrap\update.ps1`
+```
+### macOS/Linux
+
+```bash
+./bootstrap/update.sh`
+```
+This ensures:
+
+- Model still exists
+    
+- Settings remain correct
+    
+- No AI breakage after update
+    
+
+---
+
+# 🩺 Troubleshooting
+
+Run the diagnostic tool:
+
+### Windows
+
+```powershell
+.\bootstrap\doctor.ps1
+```
+### macOS/Linux
+
+```bash
+./bootstrap/doctor.sh
+```
+It checks:
+
+- Ollama installed
+    
+- API reachable
+    
+- Model present
+    
+- Model generates correctly
+    
+
+---
+
+# 🌿 Branching & Contributions
+
+## Recommended workflow
+
+Create your own branch:
+
+```git
+git checkout -b your-name
+```
+Use that branch for personal notes.
+
+`main` is maintained as the canonical structured knowledgebase.
+
+If you want to contribute improvements:
+
+- Create a PR to `main`
+    
+- Keep structure consistent
+    
+- Maintain tagging conventions
+    
+
+---
+
+# 📁 Vault Structure
+
+```text
+00 Meta
+01 Inbox
+02 Knowledge
+03 Projects
+04 Areas
+05 Resources
+99 Archive
+Daily Notes
+```
+Indexes rely on:
+
+- Dataview Community Plugin
+    
+- Pre-configured plugin settings
+    
+
+---
+
+# 🔐 License
+
+This knowledgebase is licensed under:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+You are free to:
+
+- Share
+    
+- Adapt
+    
+- Build upon
+    
+
+As long as proper credit is given.
+
+---
+
+# 🧠 Philosophy
+
+This vault is designed to be:
+
+- Portable
+    
+- Deterministic
+    
+- Version-controlled
+    
+- AI-assisted
+    
+- Locally powered
+    
+- GitHub-synced
+    
+
+It should feel like:
+
+> A personal DevSecOps brain you can clone anywhere.

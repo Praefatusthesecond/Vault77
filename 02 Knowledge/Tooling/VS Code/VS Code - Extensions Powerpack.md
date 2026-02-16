@@ -2,10 +2,12 @@
 type: knowledge
 tags: [ vscode ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
-## 8) Extensions Powerpack (your baseline kit)
+Back to [[VS Code - Overview]]
+
+## Extensions Powerpack (your baseline kit)
 
 A practical default set for your world (DevOps + Markdown + PowerShell):
 

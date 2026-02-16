@@ -6,7 +6,7 @@ parent: Azure
 aliases: [Azure CI/CD Authentication]
 ---
 
-↑ [[Azure]]
+Back to  [[Azure]]
 
 # Azure CI/CD Authentication
 

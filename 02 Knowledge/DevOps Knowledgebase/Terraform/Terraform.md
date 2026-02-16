@@ -5,7 +5,7 @@ domain: DevOps
 subcategory: Terraform
 parent: DevOps Knowledgebase
 ---
-↑[[DevOps Knowledgebase]]
+Back to [[DevOps Knowledgebase]]
 
 # Terraform
 

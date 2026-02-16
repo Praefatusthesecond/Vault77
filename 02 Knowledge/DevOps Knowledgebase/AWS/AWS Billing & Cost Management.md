@@ -5,4 +5,4 @@ subcategory: AWS
 parent: AWS
 ---
 
-↑ [[AWS]]
+Back to  [[AWS]]

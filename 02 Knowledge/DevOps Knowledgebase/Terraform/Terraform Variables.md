@@ -5,7 +5,7 @@ domain: DevOps
 subcategory: Terraform
 parent: Terraform
 ---
-↑[[Terraform]]
+Back to [[Terraform]]
 Variables make Terraform configurations reusable and environment- agnostic.
 
 ## Declaring Variables

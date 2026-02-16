@@ -5,7 +5,7 @@ parent:  ISMS Index
 status: evergreen
 created: 2026-02-04
 ---
-↑ [[ISMS Index]]]
+Back to  [[ISMS Index]]]
 
 # Table of Contents
 

@@ -2,7 +2,7 @@
 tags: [ ISO27001, Controls ]
 parent:  ISMS Index
 ---
-↑ [[Controls Index]]
+Back to  [[Controls Index]]
 
 # Third- Party Supplier Security Controls
 

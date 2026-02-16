@@ -6,7 +6,7 @@ parent: Azure
 aliases: [Terraform Remote State Azure, Azure Terraform Backend]
 ---
 
-↑ [[Terraform]]
+Back to  [[Terraform]]
 
 # Azure Remote Terraform State
 

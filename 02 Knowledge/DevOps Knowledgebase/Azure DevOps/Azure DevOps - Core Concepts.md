@@ -2,7 +2,7 @@
 tags: [azure- devops, cicd, git, fundamentals]
 parent: Azure DevOps
 ---
-↑ [[Azure DevOps]]]
+Back to  [[Azure DevOps]]]
 
 # Azure DevOps - Core Concepts
 

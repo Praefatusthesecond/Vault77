@@ -6,7 +6,7 @@ parent: AWS
 aliases: [Terraform Remote State AWS]
 ---
 
-↑ [[Terraform]]
+Back to  [[Terraform]]
 
 # Remote Terraform State in AWS
 

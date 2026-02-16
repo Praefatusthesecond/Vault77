@@ -2,7 +2,7 @@
 tags: [azure- devops, puppet, configuration- management, cicd]
 parent: Azure DevOps
 ---
-↑ [[Azure DevOps]]]
+Back to  [[Azure DevOps]]]
 
 # Azure DevOps - Puppet on ADO (Patterns)
 

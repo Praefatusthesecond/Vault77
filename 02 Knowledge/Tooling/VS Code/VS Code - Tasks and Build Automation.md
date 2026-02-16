@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, automation, tasks ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Tasks & Build Automation
 
 Tasks allow you to define **repeatable, documented commands** inside the repo.

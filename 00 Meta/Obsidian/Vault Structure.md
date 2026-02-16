@@ -4,7 +4,7 @@ domain: obsidian
 subcategory: meta
 aliases: [Structure]
 ---
-↑ [[Obsidian Index]]
+Back to  [[Obsidian Index]]
 
 > _Folders are scaffolding, not meaning._
 

@@ -2,9 +2,10 @@
 type: knowledge
 tags: [ tooling, vscode, cicd, yaml, pipelines ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
 
 # VS Code + CI/CD Authoring (YAML Ergonomics)
 

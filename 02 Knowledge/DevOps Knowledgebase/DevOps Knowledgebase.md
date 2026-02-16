@@ -2,7 +2,9 @@
 tags: [devops]
 aliases: [DevOps Library]
 domain: DevOps
+parent: Knowledge Index
 ---
+Back to [[Knowledge Index]]
 
 ```dataview
 LIST

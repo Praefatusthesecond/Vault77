@@ -2,7 +2,7 @@
 tags: [azure- devops, terraform, iac, cicd, oidc]
 parent: Azure DevOps
 ---
-↑ [[Azure DevOps]]]
+Back to  [[Azure DevOps]]]
 
 # Azure DevOps - Terraform on ADO (Patterns)
 

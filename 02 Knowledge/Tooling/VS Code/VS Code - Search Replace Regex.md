@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, regex, refactoring ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Search, Replace & Regex
 
 This note exists to prevent **accidental repo destruction** while doing powerful mass edits.

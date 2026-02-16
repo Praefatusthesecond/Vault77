@@ -3,7 +3,7 @@ tag: [ kubernetes, k8s, devops, containers, cloud ]
 parent: DevOps Knowledgebase
 aliases: [ k8s, kube, kubernetes overview ]
 ---
-↑ [[DevOps Knowledgebase]]
+Back to  [[DevOps Knowledgebase]]
 
 # Kubernetes
 

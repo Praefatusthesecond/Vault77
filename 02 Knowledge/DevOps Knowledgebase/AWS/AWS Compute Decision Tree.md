@@ -6,7 +6,7 @@ parent: AWS
 aliases: [AWS Compute Selection Guide]
 ---
 
-↑ [[AWS]]
+Back to  [[AWS]]
 
 # AWS Compute Decision Tree
 

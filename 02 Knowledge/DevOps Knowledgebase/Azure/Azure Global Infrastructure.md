@@ -5,7 +5,7 @@ subcategory: Azure
 parent: Azure
 ---
 
-↑ [[Azure]]
+Back to  [[Azure]]
 
 # Azure Global Infrastructure
 

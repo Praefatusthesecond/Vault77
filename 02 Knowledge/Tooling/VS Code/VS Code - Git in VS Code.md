@@ -2,10 +2,12 @@
 type: knowledge
 tags: [ vscode ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
-## 4) Git in VS Code (daily driver basics)
+Back to [[VS Code - Overview]]
+
+## Git in VS Code (daily driver basics)
 
 **You want these habits:**
 

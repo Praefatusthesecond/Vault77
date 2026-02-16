@@ -6,7 +6,7 @@ parent: Terraform Knowledgebase
 aliases: [Terraform Repo Structure, Terraform Module Architecture]
 ---
 
-↑ [[Terraform]]
+Back to  [[Terraform]]
 
 # Terraform Module Structure (Cloud- agnostic)
 

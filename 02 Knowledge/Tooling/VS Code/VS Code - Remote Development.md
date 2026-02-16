@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, remote, ssh, wsl, containers ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Remote Development
 
 Remote Development turns VS Code into a **distributed IDE**.

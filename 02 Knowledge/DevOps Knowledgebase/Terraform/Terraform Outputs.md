@@ -5,7 +5,7 @@ domain: DevOps
 subcategory: Terraform
 parent: Terraform
 ---
-↑[[Terraform]]
+Back to [[Terraform]]
 # Terraform Outputs
 
 Outputs expose values after Terraform applies infrastructure.

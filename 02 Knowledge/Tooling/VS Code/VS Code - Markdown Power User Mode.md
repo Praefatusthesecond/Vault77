@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, markdown, obsidian ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Markdown Power User Mode
 
 VS Code is an **excellent Markdown power tool**, especially for Obsidian- style knowledge bases.

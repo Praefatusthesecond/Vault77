@@ -4,7 +4,7 @@ domain: obsidian
 subcategory: meta
 aliases: [Types]
 ---
-↑ [[Obsidian Index]]
+Back to  [[Obsidian Index]]
 
 > _Consistency reduces thinking overhead._
 

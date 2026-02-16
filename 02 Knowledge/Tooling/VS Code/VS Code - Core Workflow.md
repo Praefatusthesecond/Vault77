@@ -2,9 +2,11 @@
 type: knowledge
 tags: [ tooling, vscode, workflow ]
 status: evergreen
-parent: vscode
+parent: VS Code - Overview
 created: 2026-02-05
 ---
+Back to [[VS Code - Overview]]
+
 # VS Code - Core Workflow
 
 This note defines the **baseline VS Code workflow** used across DevOps, Infra, Markdown, and scripting work.
@@ -70,8 +72,8 @@ If you don’t know the shortcut: **Command Palette knows it**
 - Column select: `Shift + Alt + Drag`
 
 ### Line operations
-- Duplicate line: `Shift + Alt + ↓ / ↑`
-- Move line: `Alt + ↓ / ↑`
+- Duplicate line: `Shift + Alt + ↓ / Back to `
+- Move line: `Alt + ↓ / Back to `
 - Delete line: `Ctrl + Shift + K`
 - Toggle comment: `Ctrl + /`
 

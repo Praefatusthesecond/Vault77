@@ -6,7 +6,7 @@ parent: DevOps Knowledgebase
 aliases: [Amazon Web Services Knowledgebase]
 ---
 
-↑ [[DevOps Knowledgebase]]
+Back to  [[DevOps Knowledgebase]]
 
 # AWS Knowledgebase
 

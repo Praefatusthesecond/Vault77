@@ -4,7 +4,7 @@ domain: obsidian
 subcategory: meta
 aliases: [Obsidian Maintenance, Obsidian Cleanup]
 ---
-↑ [[Obsidian Index]]
+Back to  [[Obsidian Index]]
 
 > _A second brain needs hygiene._
 
