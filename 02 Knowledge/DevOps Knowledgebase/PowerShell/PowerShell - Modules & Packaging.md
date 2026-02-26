@@ -62,7 +62,5 @@ Private → internal helpers
 ---
 
 ## Related
-
-- [[GitLab CI]]
 - [[Azure DevOps]]
-- [[PowerShell - DevOps & CI/CD]]
+- [[PowerShell - DevOps & CI-CD]]

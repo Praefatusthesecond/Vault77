@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, commands]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - Core Commands
 

@@ -1,5 +1,6 @@
 ---
 tags: [security, siem]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

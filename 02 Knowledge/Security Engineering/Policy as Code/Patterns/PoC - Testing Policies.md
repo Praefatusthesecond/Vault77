@@ -2,7 +2,7 @@
 tags: [ policy-as-code, testing, quality ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Testing Policies
 

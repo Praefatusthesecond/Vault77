@@ -58,6 +58,6 @@ Invoke-Command -ComputerName SERVER01 -Credential $cred -ScriptBlock {
 
 ## Related
 
-- [[Active Directory]]
-- [[Windows Server]]
-- [[Ansible - Windows]]
+- [[Active Directory Internals]]
+- [[Windows Architecture Overview]]
+- [[Ansible - Windows Automation]]

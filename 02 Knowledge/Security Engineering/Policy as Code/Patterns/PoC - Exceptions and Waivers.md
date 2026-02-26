@@ -2,7 +2,7 @@
 tags: [ policy-as-code, patterns, governance, risk ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Exceptions and Waivers
 

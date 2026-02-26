@@ -1,8 +1,14 @@
 ---
-tags: [security, blue-team, detection, logging]
-aliases: [Logging Detection Response]
-parent: Knowledge Index
+tags:
+  - security
+  - blue-team
+  - detection
+  - logging
+aliases:
+  - Logging Detection Response
+parent: Security Engineering Index
 ---
+Back to [[Knowledge Index]]
 
 # Logging, Detection & Response – Overview
 

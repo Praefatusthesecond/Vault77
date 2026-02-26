@@ -1,5 +1,6 @@
 ---
 tags: [security, mitre, detection]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

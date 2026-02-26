@@ -24,5 +24,5 @@ ISO 27001 requires organizations to identify, assess and treat information secur
 - Accept
 
 ## Implementation
-- Risks are recorded in [[Risk Register]]
+- Risks are recorded in [[ISO 27001 - Risk Register]]
 - Controls selected are justified in [[Statement of Applicability]]

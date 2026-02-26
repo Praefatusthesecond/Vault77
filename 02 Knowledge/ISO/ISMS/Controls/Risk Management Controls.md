@@ -261,6 +261,6 @@ Risk management controls shall be reviewed periodically to ensure:
     
 - [[Incident management controls]]
     
--[[Third- Party Supplier Security Controls]]
+- [[Third-Party Supplier Security Controls]]
     
 - [[Continual Improvement Controls]]

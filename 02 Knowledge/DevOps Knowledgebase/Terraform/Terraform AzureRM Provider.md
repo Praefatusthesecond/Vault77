@@ -273,7 +273,7 @@ See:
 
 - [[Azure IAM + Terraform]]
     
-- [[Azure CI- CD Authentication]]
+- [[Azure CI-CD Authentication]]
     
 - [[Azure RBAC]]
     

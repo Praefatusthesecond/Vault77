@@ -2,7 +2,7 @@
 tags: [ policy-as-code, governance, rollout ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Policy Rollout Strategies
 

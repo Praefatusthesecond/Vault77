@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, variables]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - Variables
 

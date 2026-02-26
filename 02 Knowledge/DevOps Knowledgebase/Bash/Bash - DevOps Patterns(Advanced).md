@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, devops, advanced]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - DevOps Patterns
 

@@ -1,5 +1,6 @@
 ---
 tags: [security, iam, fundamentals]
+parent: "IAM - Overview"
 ---
 Back to [[IAM - Overview]]
 

@@ -1,5 +1,6 @@
 ---
 tags: [security, iam, oauth, oidc]
+parent: "IAM - Overview"
 ---
 Back to [[IAM - Overview]]
 

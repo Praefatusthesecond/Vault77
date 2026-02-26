@@ -2,7 +2,7 @@
 tags: [ policy-as-code, aws, iam, cloud ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # AWS IAM Policy as Code
 

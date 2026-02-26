@@ -2,7 +2,7 @@
 tags: [ policy-as-code, kubernetes, patterns ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Kubernetes Admission Control
 

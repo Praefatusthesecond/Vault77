@@ -22,7 +22,7 @@ ISO 27001 is built on the **Plan–Do–Check–Act (PDCA)** model.
 
 References:
 - [[ISMS Scope]]
-- [[Risk Register]]
+- [[ISO 27001 - Risk Register]]
 - [[Statement of Applicability]]
 
 ### Do
@@ -31,7 +31,7 @@ References:
 - Operate processes
 
 References:
-- [[Controls]]
+- [[Controls Index]]
 - [[Information Security Awareness and Training Controls]]
 
 ### Check
@@ -43,7 +43,7 @@ References:
 References:
 - [[Logging and Monitoring Controls]]
 - [[Incident Management]]
-- [[Internal Audit]]
+- [[ISO 27001 - Internal Audit]]
 
 ### Act
 - Address nonconformities
@@ -51,8 +51,8 @@ References:
 - Update risk assessments
 
 References:
-- [[Corrective Actions]]
-- [[Management Review]]
+- [[ISO 27001 - Corrective Actions]]
+- [[ISO 27001 - Management Review]]
 
 ## Evidence of Improvement
 

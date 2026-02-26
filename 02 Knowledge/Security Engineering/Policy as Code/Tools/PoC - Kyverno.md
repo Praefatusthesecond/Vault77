@@ -2,7 +2,7 @@
 tags: [ policy-as-code, kubernetes, kyverno, tools ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Kyverno
 

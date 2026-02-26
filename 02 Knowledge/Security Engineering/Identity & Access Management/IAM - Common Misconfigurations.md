@@ -1,5 +1,6 @@
 ---
 tags: [security, iam, misconfiguration]
+parent: "IAM - Overview"
 ---
 Back to [[IAM - Overview]]
 

@@ -247,10 +247,10 @@ These controls shall be reviewed periodically to ensure:
     
 - [[Access Control Controls]]
     
--[[Cryptographic Control and Encryption Controls]]
+- [[Cryptographic Control and Encryption Controls]]
     
 - [[Backup Controls]]
     
 - [[Incident Management Controls]]
     
-- [[Third- Party Supplier Security Controls]]
+- [[Third-Party Supplier Security Controls]]

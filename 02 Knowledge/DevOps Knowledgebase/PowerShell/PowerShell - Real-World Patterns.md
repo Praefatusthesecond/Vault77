@@ -68,6 +68,6 @@ Import-Csv users.csv | ForEach-Object {
 
 ## Related
 
-- [[PowerShell - DevOps & CI/CD]]
+- [[PowerShell - DevOps & CI-CD]]
 - [[PowerShell - AD Automation]]
-- [[Active Directory]]
+- [[Active Directory Internals]]

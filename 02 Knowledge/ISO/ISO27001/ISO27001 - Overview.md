@@ -29,6 +29,6 @@ ISO 27001 is **risk-based**, not checklist-based.
 > Security controls exist to treat *identified risks*, not to satisfy auditors.
 
 ## Relation to Our ISMS
-- Our ISMS is documented under [[ISMS]]
-- Controls are defined under [[Controls]]
-- Risks are tracked in [[Risk Register]]
+- Our ISMS is documented under [[ISMS Index]]
+- Controls are defined under [[Controls Index]]
+- Risks are currently untracked. But should be tracked in a Risk Register.

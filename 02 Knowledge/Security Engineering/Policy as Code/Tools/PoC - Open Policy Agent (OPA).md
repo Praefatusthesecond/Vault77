@@ -2,7 +2,7 @@
 tags: [ policy-as-code, opa, tools ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Open Policy Agent (OPA)
 

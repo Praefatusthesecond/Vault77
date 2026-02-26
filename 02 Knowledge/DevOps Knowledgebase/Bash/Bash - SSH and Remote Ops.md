@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, ssh]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - SSH
 

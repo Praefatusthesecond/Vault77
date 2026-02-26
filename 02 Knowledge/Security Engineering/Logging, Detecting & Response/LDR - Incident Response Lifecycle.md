@@ -1,5 +1,6 @@
 ---
 tags: [security, incident-response]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

@@ -1,5 +1,6 @@
 ---
 tags: [security, logging, architecture]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

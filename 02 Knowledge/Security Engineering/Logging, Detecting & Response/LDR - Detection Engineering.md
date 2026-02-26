@@ -1,5 +1,6 @@
 ---
 tags: [security, detection, engineering]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

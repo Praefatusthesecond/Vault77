@@ -31,4 +31,4 @@ Annex A provides:
 
 Our application of Annex A is documented in:
 - [[Statement of Applicability]]
-- [[Controls]]
+- [[Controls Index]]

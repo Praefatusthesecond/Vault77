@@ -2,7 +2,7 @@
 tags: [ policy-as-code, governance, ownership ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Policy Ownership and Responsibility
 

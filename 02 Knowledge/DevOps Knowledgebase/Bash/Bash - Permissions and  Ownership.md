@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, permissions]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - Permissions
 

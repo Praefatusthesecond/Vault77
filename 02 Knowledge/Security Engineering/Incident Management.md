@@ -258,7 +258,7 @@ Incident Management effectiveness is monitored via:
 
 - [[Logging and Monitoring Controls]]
     
-- [[Risk Management]]
+- [[ISO27001 - Risk Management Explained]]
     
 - [[Business Continuity Controls]]
     

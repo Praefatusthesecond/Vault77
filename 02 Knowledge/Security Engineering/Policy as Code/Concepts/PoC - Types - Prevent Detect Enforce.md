@@ -3,7 +3,7 @@ tags: [ policy-as-code, concepts, compliance ]
 aliases: [ Preventive vs Detective ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Policy Types - Prevent, Detect, Enforce
 

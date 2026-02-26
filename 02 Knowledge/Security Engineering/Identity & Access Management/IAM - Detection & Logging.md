@@ -1,5 +1,6 @@
 ---
 tags: [security, iam, detection]
+parent: "IAM - Overview"
 ---
 Back to [[IAM - Overview]]
 

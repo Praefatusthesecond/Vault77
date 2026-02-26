@@ -229,4 +229,4 @@ These controls shall be reviewed periodically to ensure:
     
 - [[Asset Management Controls]]
     
-- [[Third- Party Supplier Security Controls]]
+- [[Third-Party Supplier Security Controls]]

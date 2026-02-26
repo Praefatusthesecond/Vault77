@@ -17,4 +17,7 @@ aliases: [ "Docker Observability" ]
 - Decide what “healthy” means (healthchecks can help)
 - Centralize logs for anything beyond dev/local
 
-Related: [[Grafana - Index]] | [[Zabbix - Index]] | [[Docker - Troubleshooting]]
+Related: 
+- [[Grafana - Overview]]
+- [[Zabbix - Overview]]
+- [[Docker - Troubleshooting]]

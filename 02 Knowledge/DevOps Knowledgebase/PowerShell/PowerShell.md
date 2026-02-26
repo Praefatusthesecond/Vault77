@@ -25,10 +25,10 @@ It is a **core DevOps skill** for:
 - [[PowerShell - Objects & Pipeline]]
 - [[PowerShell - Scripting & Functions]]
 - [[PowerShell - Modules & Packaging]]
-- [[PowerShell - Remoting (WinRM)]]
+- [[PowerShell - Remoting(WinRM)]]
 - [[PowerShell - Security & Execution Policy]]
 - [[PowerShell - AD Automation]]
-- [[PowerShell - DevOps & CI/CD]]
+- [[PowerShell - DevOps & CI-CD]]
 - [[PowerShell - Error Handling & Debugging]]
 - [[PowerShell - Performance & Best Practices]]
 - [[PowerShell - Real-World Patterns]]
@@ -37,10 +37,9 @@ It is a **core DevOps skill** for:
 
 ## Related
 
-- [[Windows Server]]
-- [[Active Directory]]
-- [[GitLab CI]]
+- [[Windows Architecture Overview]]
+- [[Active Directory Internals]]
 - [[Azure DevOps]]
-- [[Ansible - Windows]]
-- [[Zabbix]]
+- [[Ansible - Overview]]
+- [[Zabbix - Overview]]
 

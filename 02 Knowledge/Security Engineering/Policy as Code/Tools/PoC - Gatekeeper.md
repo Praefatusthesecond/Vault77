@@ -2,7 +2,7 @@
 tags: [ policy-as-code, kubernetes, gatekeeper, tools ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Gatekeeper
 

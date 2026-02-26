@@ -1,5 +1,6 @@
 ---
 tags: [security, detection, alerting]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

@@ -1,5 +1,6 @@
 ---
 tags: [security, iam, escalation]
+parent: "IAM - Overview"
 ---
 Back to [[IAM - Overview]]
 

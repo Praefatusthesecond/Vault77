@@ -1,5 +1,6 @@
 ---
 tags: [security, cloud, logging]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

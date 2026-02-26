@@ -1,5 +1,6 @@
 ---
 tags: [security, iam, workload-identity]
+parent: "IAM - Overview"
 ---
 Back to [[IAM - Overview]]
 

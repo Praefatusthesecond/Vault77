@@ -77,8 +77,8 @@ Most attacks happen at trust boundaries.
 
 ## Related Notes
 
-- [[Threat Modeling - Data Flow Diagrams]]
-- [[Threat Modeling - STRIDE]]
-- [[Threat Modeling - DREAD]]
+- [[Threat Modelling - Data Flow Diagrams(DFD)]]
+- [[Threat Modelling - STRIDE]]
+- [[Threat Modelling - DREAD]]
 - [[Threat Modeling - MITRE ATT&CK]]
-- [[Threat Modeling - CI/CD Pipelines]]
+- [[Threat Modelling - CI-CD Pipelines]]

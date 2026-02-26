@@ -2,7 +2,7 @@
 tags: [ policy-as-code, kubernetes, example ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Example - Block Privileged Pods
 

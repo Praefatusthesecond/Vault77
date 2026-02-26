@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, advanced, scripting]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - Advanced Scripting
 

@@ -49,7 +49,7 @@ Controls can be:
 - Detective
 - Corrective
 
-Controls are documented under [[Controls]].
+Controls are documented under [[Controls Index]].
 
 ### Statement of Applicability (SoA)
 A document that:

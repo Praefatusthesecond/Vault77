@@ -279,6 +279,6 @@ Incident management controls shall be reviewed periodically to ensure:
     
 - [[Data Protection Controls]]
     
-- [[Third- Party Supplier Security Controls]]
+- [[Third-Party Supplier Security Controls]]
     
 - [[Continual Improvement Controls]]

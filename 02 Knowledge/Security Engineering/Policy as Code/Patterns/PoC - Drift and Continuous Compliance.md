@@ -2,7 +2,7 @@
 tags: [ policy-as-code, drift, compliance ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Drift and Continuous Compliance
 

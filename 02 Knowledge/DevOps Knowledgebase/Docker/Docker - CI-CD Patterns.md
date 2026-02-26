@@ -27,4 +27,7 @@ aliases: [ "Docker in CI", "Container Build Pipeline" ]
 - Multi-stage builds
 - Keep build context small (.dockerignore)
 
-Related: [[Docker - Registries]] | [[Docker - Dockerfile]] | [[GitLab CI]] | [[Azure DevOps]]
+Related: 
+- [[Docker - Registries]] 
+- [[Docker - Dockerfile]]
+- [[Azure DevOps]]

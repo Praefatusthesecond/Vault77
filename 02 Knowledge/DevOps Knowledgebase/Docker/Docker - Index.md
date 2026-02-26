@@ -28,7 +28,7 @@ Back to [[DevOps Knowledgebase]]
 - [[Docker - CI-CD Patterns]]
 
 ## Related sections
-- [[Kubernetes - Index]]
-- [[Git - Index]]
-- [[Grafana - Index]]
-- [[Zabbix - Index]]
+- [[Kubernetes - Overview]]
+- [[Git - Overview]]
+- [[Grafana - Overview]]
+- [[Zabbix - Overview]]

@@ -2,7 +2,7 @@
 tags: [ policy-as-code, azure, governance ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Azure Policy as Code
 

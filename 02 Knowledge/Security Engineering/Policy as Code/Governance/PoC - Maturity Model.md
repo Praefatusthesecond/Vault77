@@ -3,7 +3,7 @@ tags: [ policy-as-code, governance, maturity-model ]
 aliases: [ PoC Maturity Model ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Policy as Code Maturity Model
 

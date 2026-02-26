@@ -1,5 +1,6 @@
 ---
 tags: [security, logging, fundamentals]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

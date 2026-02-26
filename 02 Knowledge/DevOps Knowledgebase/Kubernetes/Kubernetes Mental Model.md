@@ -32,4 +32,4 @@ Kubernetes
 
 ## In-Depth 
 
-[[Kubernetes (Root)]]
+[[Kubernetes - Overview]]

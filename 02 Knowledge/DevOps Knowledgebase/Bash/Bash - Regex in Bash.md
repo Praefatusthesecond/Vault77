@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, regex]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - Regex
 

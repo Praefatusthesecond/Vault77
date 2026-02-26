@@ -1,8 +1,13 @@
 ---
-tags: [security, iam, foundation]
-aliases: [Identity and Access Management]
-parent: Knowledge Index
+tags:
+  - security
+  - iam
+  - foundation
+aliases:
+  - Identity and Access Management
+parent: Security Engineering Index
 ---
+Back to [[Knowledge Index]]
 
 # Identity & Access Management – Overview
 
@@ -40,7 +45,7 @@ Most cloud breaches are IAM failures.
 
 ## Related Notes
 
-- [[IAM - Core Concepts]]
-- [[IAM - Cloud IAM]]
+- [[IAM - Core Concepts (AAA)]]
+- [[IAM - Cloud IAM (AWS & Azure)]]
 - [[IAM - Zero Trust Architecture]]
 - [[IAM - Privilege Escalation Paths]]

@@ -237,6 +237,4 @@ Treat state as **highly sensitive**.
     
 - [[Azure IAM + Terraform]]
     
-- [[Azure CI- CD Authentication]]
-    
-- [[]]
+- [[Azure CI-CD Authentication]]

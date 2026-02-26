@@ -55,4 +55,4 @@ Goal: choose Azure compute without defaulting to VMs.
 
 ## Related
 - [[Azure Networking Architecture Patterns]]
-- [[Azure CI- CD Authentication]]
+- [[Azure CI-CD Authentication]]

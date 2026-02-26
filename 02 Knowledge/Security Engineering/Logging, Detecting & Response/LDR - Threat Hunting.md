@@ -1,5 +1,6 @@
 ---
 tags: [security, threat-hunting]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

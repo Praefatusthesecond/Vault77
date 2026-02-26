@@ -1,5 +1,6 @@
 ---
 tags: [security, cicd, detection]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, pipes, devops]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - Pipes & Redirection
 

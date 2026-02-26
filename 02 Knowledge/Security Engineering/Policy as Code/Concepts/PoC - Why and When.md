@@ -2,7 +2,7 @@
 tags: [ policy-as-code, concepts, governance, security ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Policy - Why and When
 

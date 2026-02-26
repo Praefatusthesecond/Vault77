@@ -49,7 +49,7 @@ Secure SDLC:
 
 ## Related Notes
 
-- [[Threat Modeling - Overview]]
+- [[Threat Modelling - Overview]]
 - [[Secure SDLC - Shift Left Security]]
 - [[Secure SDLC - SAST, DAST, SCA]]
 - [[Secure SDLC - Supply Chain Security]]

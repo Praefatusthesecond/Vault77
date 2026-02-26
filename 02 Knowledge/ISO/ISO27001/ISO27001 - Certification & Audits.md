@@ -21,7 +21,7 @@ ISO 27001 certification is performed by an accredited certification body.
 - Management involvement
 
 ## Evidence Sources
-- [[Risk Register]]
+- [[ISO 27001 - Risk Register]]
 - [[Controls Index]]
-- [[Management Review]]
+- [[ISO 27001 - Management Review]]
 - [[Incident Management Controls]]

@@ -1,7 +1,8 @@
 ---
 tags: [ policy-as-code, terraform, example ]
+parent: "Policy as Code"
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Example - Terraform Linting + OPA
 

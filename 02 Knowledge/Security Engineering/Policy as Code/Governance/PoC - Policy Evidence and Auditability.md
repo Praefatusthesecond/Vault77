@@ -2,7 +2,7 @@
 tags: [ policy-as-code, governance, audit, compliance ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Policy Evidence and Auditability
 

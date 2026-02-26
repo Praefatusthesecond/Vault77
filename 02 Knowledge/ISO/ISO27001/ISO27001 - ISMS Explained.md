@@ -17,10 +17,10 @@ An Information Security Management System (ISMS) is a structured framework that 
 
 ## Our ISMS Components
 - **Scope:** [[ISMS Scope]]
-- **Risk Management:** [[Risk Register]]
-- **Controls:** [[Controls]]
+- **Risk Management:** [[ISO 27001 - Risk Register]]
+- **Controls:** [[Controls Index]]
 - **Policies:** [[Policies Index]]
 - **Monitoring:** [[Logging and Monitoring Controls]]
-- **Improvement:** [[Management Review]]
+- **Improvement:** [[ISO 27001 - Management Review]]
 
 The ISMS follows the **Plan-Do-Check-Act (PDCA)** cycle.

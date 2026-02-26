@@ -2,7 +2,7 @@
 tags: [ policy-as-code, opa, conftest, tools ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 parent: Policy as Code
 # Conftest
 

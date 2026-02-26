@@ -2,7 +2,7 @@
 tags: [ policy-as-code, governance, risk, failure ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Policy Failure Modes
 

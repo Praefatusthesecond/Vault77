@@ -1,6 +1,8 @@
 ---
 tags: [linux, bash, scripting]
+parent: "Bash - Overview"
 ---
+Back to [[Bash - Overview]]
 
 # Bash - Scripting
 

@@ -2,7 +2,7 @@
 tags: [ policy-as-code, opa, rego, language ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Rego Language
 

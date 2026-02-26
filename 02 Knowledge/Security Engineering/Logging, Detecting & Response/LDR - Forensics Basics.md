@@ -1,5 +1,6 @@
 ---
 tags: [security, forensics]
+parent: "LDR - Overview"
 ---
 Back to [[LDR - Overview]]
 

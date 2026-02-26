@@ -252,4 +252,4 @@ These controls shall be reviewed periodically to ensure:
     
 - [[Incident Management Controls]]
     
-- [[Third- Party Supplier Security Controls]]
+- [[Third-Party Supplier Security Controls]]

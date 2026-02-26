@@ -47,8 +47,8 @@ You are using Bash whether you realize it or not.
 
 ## Related Notes
 
-- [[Linux - Overview]]
-- [[SSH]]
-- [[Ansible]]
-- [[Git]]
-- [[CI-CD Pipelines]]
+- [[Linux Internals Index]]
+- [[Bash - SSH and Remote Ops]]
+- [[Ansible - Overview]]
+- [[Git - Overview]]
+- [[Threat Modelling - CI-CD Pipelines]]

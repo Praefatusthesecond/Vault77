@@ -1,7 +1,8 @@
 ---
 tags: [ policy-as-code, tagging, example ]
+parent: "Policy as Code"
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Example - Require Tags on Resources
 

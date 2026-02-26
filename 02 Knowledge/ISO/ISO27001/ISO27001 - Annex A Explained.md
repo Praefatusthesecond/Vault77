@@ -21,5 +21,5 @@ Annex A controls are grouped into thematic areas such as:
 - Technological controls
 
 ## Our Usage
-- Control selection: [[Statement of Applicabilit]]
+- Control selection: [[Statement of Applicability]]
 - Implementation: [[Controls Index]]

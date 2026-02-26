@@ -2,7 +2,7 @@
 tags: [ policy-as-code, terraform, guardrails ]
 parent: Policy as Code
 ---
-Back to  [[Policy as Code]]
+Back to  [[Policy as Code - Overview]]
 
 # Terraform - Policy Guardrails
 
